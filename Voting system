@@ -1,5 +1,5 @@
 age=int(input("enter your age"))
-bjp="bharat janta party"
+bjp="bharatiya janta party"
 cnp="congress party"
 other="other party"
 
