@@ -9,8 +9,8 @@ if(age>=18):
   print("you are eligible for vote")
   if(vote =='bjp'):
     print("your party name is : ",bjp)
-  elif(vote =='cnp'):
-   print("your party name is : ",cnp)
+  elif(vote =='inc'):
+   print("your party name is : ",inc)
   elif(vote=='others'):
     print("your party name is : ",other)
   else:
